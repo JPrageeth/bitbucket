@@ -1,0 +1,10 @@
+※Bitbucket deploy to VPS
+→http://jonathannicol.com/blog/2013/11/19/automated-git-deployments-from-bitbucket/
+
+
+※tools
+https://buddy.works
+BitBucket
+SourceTree
+
+cd /home/junk/git && git full && GIT_WORK_TREE=/home/<username>/www git checkout -f 
